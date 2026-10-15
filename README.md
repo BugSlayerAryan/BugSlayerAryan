@@ -1,21 +1,159 @@
-<h1 align="center">Hi 👋, I'm Aryan Behera</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+👋 Hi, I'm Ariyan Behera
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugslayeraryan&label=Profile%20views&color=0e75b6&style=flat" alt="bugslayeraryan" /> </p>
+Aspiring Software Development Engineer · Java & Full-Stack Development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugslayeraryan" alt="bugslayeraryan" /></a> </p>
+<p align="center">
+  <a href="https://aryanbehera.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-behera-0009877554567899643">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BugSlayerAryan">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
+</p><p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+with+Java+%26+Spring+Boot;Creating+responsive+React+interfaces;Designing+RESTful+APIs;Learning%2C+solving%2C+and+building+every+day"
+    alt="Animated developer introduction"
+  />
+</p>---
 
-- 🌱 I’m currently learning **Advanced Java, Frontend and Backend Frameworks, and System Design to strengthen my full stack development skills.**
+"01" — About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I'm a Computer Science and Engineering student working toward becoming a Software Development Engineer. I enjoy building practical applications, understanding backend systems, and developing clean, user-friendly web experiences.
+
+- 🎓 Education: B.Tech in Computer Science and Engineering — expected 2027
+- ☕ Backend: Java, Spring Boot, REST APIs
+- ⚛️ Frontend: React.js, JavaScript, HTML5, CSS3
+- 🗄️ Databases: MySQL, MongoDB
+- 🧠 Currently strengthening: Data Structures and Algorithms, OOP, DBMS, and problem-solving
+- 🎯 Career focus: SDE-1, Java Developer, and Full-Stack Developer opportunities
+
+I value readable code, thoughtful problem-solving, and building projects that solve real problems.
+
+"02" — Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-0B1220?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-0B1220?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Maven-0B1220?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0B1220?style=flat-square&logo=intellijidea&logoColor=FFFFFF" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS_Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+</p>Core concepts: Object-Oriented Programming · Data Structures & Algorithms · DBMS · REST APIs · Debugging · Exception Handling
+
+"03" — GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BugSlayerAryan&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=00D9FF"
+    alt="GitHub statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugSlayerAryan&layout=compact&hide_border=true&bg_color=0B1220&title_color=00D9FF&text_color=C9D1D9"
+    alt="Most-used programming languages"
+    height="170"
+  />
+</p><p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=BugSlayerAryan&hide_border=true&background=0B1220&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="GitHub contribution streak"
+    width="700"
+  />
+</p><p align="center">
+  <sub>Statistics are generated by third-party services and reflect the data those services can access. Private contributions and service availability may affect results.</sub>
+</p>"04" — Featured Projects
+
+I use projects to turn concepts into working software. Explore my repositories for implementation details and source code.
+
+<!--
+PROJECT CARD TEMPLATE
+Duplicate this section for each completed project.
+Replace every placeholder before publishing.
+
+### Project Name
+A concise, accurate description of the problem and the solution.
+
+- **Highlights:** [Verified feature 1] · [Verified feature 2]
+- **Stack:** Java · Spring Boot · React · MySQL
+- **Repository:** https://github.com/BugSlayerAryan/REPOSITORY_NAME
+- **Live demo:** ADD_URL_IF_AVAILABLE
+-->🚑 Emergency Response System
+
+A project concept focused on helping users report road accidents and communicate emergency information.
+
+- Status: Add your actual implementation status
+- Stack: Add the technologies used in your version
+- Repository: Add the verified repository URL
+
+🏫 Institute Management System
+
+A potential showcase for managing institute-related information and administrative workflows.
+
+- Status: Add your actual implementation status
+- Stack: Add the technologies used in your version
+- Repository: Add the verified repository URL
+
+«Keep these entries only if they reflect projects you have actually built. Replace the descriptions, features, technology stacks, and repository links with verified details. Remove any project that is not yet implemented.»
+
+"05" — Problem Solving & DSA
+
+I'm developing my problem-solving skills with a focus on writing efficient, understandable solutions and building strong programming fundamentals.
+
+Topics I'm working on
+
+- Arrays and strings
+- Hashing and two-pointer techniques
+- Linked lists, stacks, and queues
+- Binary search and sorting
+- Trees, recursion, and backtracking
+- Basic dynamic programming
+- Time and space complexity
+
+My approach: Understand the problem → identify edge cases → design an approach → analyze complexity → implement → test.
+
+I aim to improve consistency and problem-solving depth rather than chase problem counts.
+
+<!-- Add a verified coding-platform profile here when ready. -->"06" — What I'm Looking For
+
+I'm interested in opportunities where I can contribute, learn from experienced engineers, and grow through practical software development.
+
+- Software Development Engineer — Entry Level
+- Java Developer / Spring Boot Developer
+- Full-Stack Developer — Java + React
+- Software Engineering Internships
+
+If you're hiring for an entry-level role or would like to discuss a software project, feel free to connect.
+
+"07" — Connect With Me
+
+<p align="center">
+  <a href="https://github.com/BugSlayerAryan">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-behera-0009877554567899643">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://aryanbehera.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-0B1220?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Visit portfolio"/>
+  </a>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BugSlayerAryan&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views"/>
+</p>---
+
+<p align="center">
+  <sub>Designed with a focus on clean code, continuous learning, and meaningful software.</sub>
+  <br/>
+  <sub>Building skills today. Building better software tomorrow.</sub>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayeraryan&show_icons=true&locale=en&layout=compact" alt="bugslayeraryan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugslayeraryan&show_icons=true&locale=en" alt="bugslayeraryan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugslayeraryan&" alt="bugslayeraryan" /></p>
