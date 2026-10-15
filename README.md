@@ -55,8 +55,6 @@
 
 <div align="center">
 
-## `01` — THE DEVELOPER BEHIND THE CODE
-
 ### Hey there! 👋 Welcome to my digital workspace.
 
 </div>
@@ -109,12 +107,11 @@ My primary interests are Java backend development, REST APIs, full-stack web app
 ---
 
 <!-- =========================================================
-     03 | TECH STACK
 ========================================================= -->
 
 <div align="center">
 
-## `02` — TECHNOLOGY UNIVERSE
+
 
 <sub>Languages · Frameworks · Databases · Developer Tools</sub>
 
